@@ -1,9 +1,9 @@
 {
-  "title": "SWlog",
+  "title": "Digital Day Book",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "notes to myself",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am planning to keep a paper daybook as well",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Sean Wayman",
+    "email": "ruedelaflieh@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
